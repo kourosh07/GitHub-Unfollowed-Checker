@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub Unfollowed Checker</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>GitHub Unfollowed Checker</h1>
+      <p>
+        Enter your GitHub username to see who you follow but don't follow you
+        back
+      </p>
+      <div class="input-group">
+        <input
+          type="text"
+          id="username"
+          placeholder="Enter your GitHub username"
+          required
+        />
+        <button id="check">Check</button>
+      </div>
+      <div id="loading" class="hidden loading-message">
+        Loading, please wait...
+      </div>
+      <div id="error" class="error"></div>
+      <div id="result" class="result-grid"></div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
