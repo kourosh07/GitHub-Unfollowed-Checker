@@ -12,5 +12,8 @@ A sleek and efficient web application to identify users you follow on GitHub who
 
 ![Demo Screenshot](https://github.com/kourosh07/GitHub-Unfollowed-Checker/blob/main/Capture.jpg)
 
+##
+
+## How to Use :wrench:
 
 ### Best regards :heart:
