@@ -10,4 +10,7 @@ A sleek and efficient web application to identify users you follow on GitHub who
 
 ## Demo :camera:
 
+![Demo Screenshot](https://github.com/kourosh07/GitHub-Unfollowed-Checker/blob/main/Capture.jpg)
+
+
 ### Best regards :heart:
